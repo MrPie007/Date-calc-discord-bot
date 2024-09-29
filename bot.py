@@ -6,7 +6,7 @@ import discord
 import random
 import subprocess
 from discord.ext import commands
-TOKEN = 'MTI2MDMyODM4NDU2NzcwOTY5Ng.GLHkQt.C7QPxHfCe76GeqrTv9yKMiUH_MP34GswfoGRmc'
+TOKEN =  ''
 AllMessages = []
 bot = commands.Bot(intents=discord.Intents.all(),command_prefix = 'pi ')
 
