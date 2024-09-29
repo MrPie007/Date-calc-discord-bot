@@ -7,8 +7,10 @@ import random
 import subprocess
 from discord.ext import commands
 TOKEN =  ''
+
 AllMessages = []
 bot = commands.Bot(intents=discord.Intents.all(),command_prefix = 'pi ')
+
 
 
 class Datee:
